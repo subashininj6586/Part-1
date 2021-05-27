@@ -1,6 +1,5 @@
 import React from 'react'
 
-
 const Hello = (props) => {
   return (
     <div>
@@ -9,7 +8,6 @@ const Hello = (props) => {
       </p>
     </div>
   )
-}
 
 const App = () => {
   const name = 'Peter'
